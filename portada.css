@@ -1,8 +1,12 @@
 h1 {
   color: antiquewhite;
-  background-color: rgb(100, 19, 19);
   text-align: left;
   font-family: Georgia, "Times New Roman", Times, serif;
+  display: inline-block;
+}
+
+header {
+  background-color: rgb(100, 19, 19);
   padding: 30px;
 }
 
@@ -11,8 +15,26 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   display: flex;
   gap: 100px;
+  padding: 30px;
 }
 
 .contenedor p {
   margin: 0;
+}
+
+.tarjeta {
+  padding: 25px;
+}
+
+#ingreso {
+  text-align: right;
+}
+
+#suscribite {
+  text-align: right;
+}
+
+nav {
+  text-align: right;
+  display: inline-block;
 }
