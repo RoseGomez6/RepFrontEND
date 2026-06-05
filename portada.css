@@ -24,6 +24,13 @@ header {
 
 .tarjeta {
   padding: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.tarjeta img {
+  width: 200px;
+  height: auto;
 }
 
 #ingreso {
