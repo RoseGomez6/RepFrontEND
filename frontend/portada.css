@@ -10,6 +10,14 @@ header {
   padding: 30px;
 }
 
+.boton-nav {
+  background-color: black;
+  color: antiquewhite;
+  padding: 10px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
 .contenedor {
   color: rgb(100, 19, 19);
   font-family: Georgia, "Times New Roman", Times, serif;
